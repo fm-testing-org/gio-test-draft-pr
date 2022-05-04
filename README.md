@@ -1,2 +1,2 @@
 # gio-test-draft-pr
-for testing qua-554
+For testing qua-554.
